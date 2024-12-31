@@ -1,0 +1,38 @@
+[
+  {
+    
+    "name": "Wireless Bluetooth Headphones",
+    "img": "https://i.ibb.co.com/3F592gL/1.png",
+    "price": 49.99
+  },
+  {
+    
+    "name": "Smart Fitness Watch",
+    "img": "https://i.ibb.co.com/3yPrHRV/2.png",
+    "price": 89.99
+  },
+  {
+    
+    "name": "Ergonomic Office Chair",
+    "img": "https://i.ibb.co.com/D1Xbhrd/3.png",
+    "price": 129.99
+  },
+  {
+    
+    "name": "4K Ultra HD Smart TV",
+    "img": "https://i.ibb.co.com/Km1zzdB/4.png",
+    "price": 399.99
+  },
+  {
+    
+    "name": "Portable Coffee Maker",
+    "img": "https://i.ibb.co.com/bPh4TJ4/5.png",
+    "price": 29.99
+  },
+  {
+    
+    "name": "Noise-Canceling Microphone",
+    "img": "https://i.ibb.co.com/NxbBygk/6.png",
+    "price": 59.99
+  }
+]
